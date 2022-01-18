@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sachin631
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m sachin sangwan
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning frontend
+- 💞️ I’m looking to collaborate on website
+- 📫 How to reach me 8053081201
 
 <!---
 sachin631/sachin631 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
