@@ -1,8 +1,21 @@
 - 👋 Hi, I’m sachin sangwan
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend
-- 💞️ I’m looking to collaborate on website
-- 📫 How to reach me 8053081201
+- 👀
+if (developer.likesReact && developer.likesNode)
+  {
+            console.log("This MERN stack developer is like a superhero with the power of both front-end and back-end!");
+  }
+else if (developer.likesReact && !developer.likesNode)
+  {
+    console.log("This MERN stack developer is like a ninja with React skills that can slice through any UI challenge!");
+  }
+else if (!developer.likesReact && developer.likesNode)
+  {
+    console.log("This MERN stack developer is like a wizard of Node.js who can conjure up any server-side magic!");
+  }
+else
+  {
+    console.log("This MERN stack developer is like a unicorn - unique, rare, and magical!");
+  }
 
 <!---
 sachin631/sachin631 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
